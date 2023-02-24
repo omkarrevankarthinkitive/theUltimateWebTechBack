@@ -74,7 +74,7 @@ Creating an app like Appointment book app requires careful planning and executio
 
 ## Getting Started
 
-TO setup the project execute following steps
+TO setup the project execute following steps hello
 
 
 
